@@ -1,0 +1,14 @@
+{
+  "expo": {
+     "packagerOpts": {
+      "hostType": "lan",
+      "lanType": "ipv4"
+    },
+    "name": "paymentterminal",
+    "slug": "paymentterminal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
